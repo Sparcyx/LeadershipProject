@@ -1,6 +1,6 @@
 # 🌍 Benevolink
 
-**Benevolink** est une application web et mobile qui met en relation les **associations** et les **bénévoles** autour de missions locales.  
+**Benevolink** est une application web qui met en relation les **associations** et les **bénévoles** autour de missions locales.  
 Les bénévoles peuvent facilement trouver des missions selon leur **localisation**, leurs **disponibilités** et leurs **centres d’intérêt**.  
 
 ---
@@ -35,6 +35,3 @@ Nous restons sur des outils **classiques, fiables et simples à prendre en main*
 ## 📜 Licence
 
 Projet sous licence **MIT**.
-
-```
-
